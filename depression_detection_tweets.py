@@ -5,7 +5,7 @@ import pickle
 # Loading the dataset
 df = pd.read_csv('tweets_combined.csv')
 
-# Importing essential libraries for performing Natural Language Processing on 'Restaurant_Reviews.tsv' dataset
+# Importing essential libraries for performing Natural Language Processing on 'Depression' dataset
 import nltk
 import re
 
@@ -64,3 +64,4 @@ classifier.fit(X_train, y_train)
 # Creating a pickle file for the Multinomial Naive Bayes model
 filename = 'depression2.pkl'
 pickle.dump(classifier, open(filename, 'wb'))
+
