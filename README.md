@@ -19,8 +19,15 @@
 - After all the requirements are installed successfully Then run the app by
 `python app.py`
 
+### Web-App
 ![alt text](https://github.com/Jvdboss7/Depression/blob/master/Capture11.JPG)
 
+### Predictions
+
+![alt text](https://github.com/Jvdboss7/Depression/blob/master/Capture12.jpg)
+
+![alt text](https://github.com/Jvdboss7/Depression/blob/master/Capture13.JPG)
 
 ### Motivation and purpose of the project 
-- As we know Depression and mental health is a very common problem in this generation.  Lot of people are facing this issue. So we have decieded to create a 
+- As we know Depression and mental health is a very common problem in this generation.  Lot of people are facing this issue. 
+
