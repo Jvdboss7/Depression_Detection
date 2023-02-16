@@ -26,6 +26,6 @@ threadpoolctl==2.1.0
 torch==1.8.1
 tqdm==4.60.0
 typing-extensions==3.10.0.0
-Werkzeug==2.0.0
+Werkzeug==2.2.3
 wincertstore==0.2
 wordcloud==1.8.1
